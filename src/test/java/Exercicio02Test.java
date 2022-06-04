@@ -6,7 +6,7 @@ import org.junit.Test;
     public class Exercicio02Test {
 
         @Test
-        public void ExibeValoresTrocadosTest(){
+        public void exibeValoresTrocadosTest(){
 
             String mensagem =  "O valor do primeiro numero é :20\n"
                     +"O valor do segundo numero é :10";
